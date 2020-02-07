@@ -1,2 +1,3 @@
 # ChineseChess
-The Homework project last year. The algorithms might be a bit too complicated.
+It provides a console-based chinese chess framework.
+由于技术力不足，目前只能支持人人交互。
